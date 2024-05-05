@@ -3,7 +3,7 @@
 This is a GPU Groth16 prover that won the `2x` speedup prize.
 It follows the template [from the reference](https://github.com/CodaProtocol/snark-challenge-prover-reference).
 
-This prover requires a substantial amount of RAM to use. The reference machine has 32GB.
+This prover requires a substantial amount of RAM to use. The reference machine has 32GB. 
 
 This prover has a slow preprocessing step! Note the changed instructions below.
 
